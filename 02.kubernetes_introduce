@@ -1,6 +1,11 @@
 # original url
-
+公司内部的文章，我就不写原文出处了。(羞愧...)
 # kubernetes introduce
 `(摘要翻译)`
 
-[Kubernetes](https://kubernetes.io/) 是一个开源的容器 Orchestration 工具。
+## About
+[Kubernetes](https://kubernetes.io/) 是一个开源的容器 Orchestration 工具。[官方的中文翻译](https://k8smeetup.github.io/docs/home/)
+
+## Architecture
+
+![Kubernetes architecture](https://i.imgur.com/oThcos9.jpg)
